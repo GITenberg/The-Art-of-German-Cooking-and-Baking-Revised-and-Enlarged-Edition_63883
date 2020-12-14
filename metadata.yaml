@@ -1,5 +1,8 @@
 _repo: The-Art-of-German-Cooking-and-Baking-Revised-and-Enlarged-Edition_63883
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63883-h/images/cover.jpg
 creator:
   author:
     agent_name: Meier, Lina
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '52650'
     url: http://www.gutenberg.org/2009/agents/52650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63883#The-Art-of-German-Cooking-and-Baking-Revised-and-Enlarged-Edition
 gutenberg_issued: '2020-11-26'
 gutenberg_type: Text
 identifiers:
